@@ -9,7 +9,7 @@
 
 
 /* basic elements */
-html {
+/* html { *
 	margin: 0;
 	padding: 0;
 	}
@@ -50,7 +50,7 @@ abbr {
 	}
 
 
-/* specific divs */
+/* specific divs 
 .page-wrapper { 
 	background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left; 
 	padding: 0 175px 0 110px;  
